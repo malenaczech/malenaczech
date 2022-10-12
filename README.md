@@ -1,6 +1,6 @@
 <h1 align="center">Hi there I'm Malena Czech 👋</h1>
 
-- 🌱 I’m currently learning Java Script
+- 🌱 I’m currently learning React
 - ⚡ Fun fact: I'm also a Design Student
 
 <h4>Frontend developer in progress</h4>
